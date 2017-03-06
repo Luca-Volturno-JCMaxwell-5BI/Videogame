@@ -13,7 +13,7 @@ Sviluppo di un videogioco. Progetto di fine anno, maturità 2017/2018
  * Documentazione **10%**
 
 ##Mappa concettuale obiettivi da raggiungere
-![alt tag](https://github.com/Luca-Volturno-JCMaxwell-5BI/Videogame/blob/master/GIOCO.jpeg)
+
   
   
 
